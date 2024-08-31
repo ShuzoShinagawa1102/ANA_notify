@@ -1,0 +1,3 @@
+要件
+- ANA Blue Hanger Tourで特定の日において、予約枠が1以上になった日を感知した時、SlackのWebhookで通知するプログラムを書く。
+
